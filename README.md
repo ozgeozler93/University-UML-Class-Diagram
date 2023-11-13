@@ -2,16 +2,16 @@
 Kodluyoruz - OOP Course
 
 
-1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
+1 - There are university classes, working offices and departments.
 
-2 - Departmanlara ait ofisler vardır.
+2 - There are offices of departments.
 
-3 - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
+3 - There are university employees. These employees can be a professor or civil servant.
 
-4 - Her çalışan bir ofiste çalışır.
+4 - Each employee works in an office.
 
-Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
+Draw the class diagram that depicts this system.
 
-Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
+Note: There is no need to specify the qualifications and behaviors of the classes.
 
 Drawn in Drawio.
